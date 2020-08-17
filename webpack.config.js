@@ -38,7 +38,9 @@ module.exports = {
   },
   // plugins的配置(下载->引用->使用)
   plugins: [
-    new HtmlWebpackPlugin()
+    new HtmlWebpackPlugin({
+      template: './src/index.html'
+    })
   ],
   // 模式
   mode: 'development',
