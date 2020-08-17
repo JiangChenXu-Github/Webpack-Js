@@ -1,5 +1,6 @@
-import './css.css'
-import './less.less'
-import data from './json.json'
+// 引入样式资源
+import './index.css'
+import './index.less'
+import data from './index.json'
 
 console.log(data)
