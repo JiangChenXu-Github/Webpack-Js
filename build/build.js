@@ -177,7 +177,7 @@ eval("var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtim
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.css */ \"./src/index.css\");\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _index_less__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.less */ \"./src/index.less\");\n/* harmony import */ var _index_less__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_index_less__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _index_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.json */ \"./src/index.json\");\nvar _index_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! ./index.json */ \"./src/index.json\", 1);\n// 引入样式资源\r\n\r\n\r\n\r\n\r\nconsole.log(_index_json__WEBPACK_IMPORTED_MODULE_2__)\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.css */ \"./src/index.css\");\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _index_less__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.less */ \"./src/index.less\");\n/* harmony import */ var _index_less__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_index_less__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _index_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.json */ \"./src/index.json\");\n/* harmony import */ var _index_json__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_index_json__WEBPACK_IMPORTED_MODULE_2__);\n// 引入样式资源\r\n\r\n\r\n\r\n\r\nconsole.log(_index_json__WEBPACK_IMPORTED_MODULE_2___default.a)\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
@@ -185,10 +185,10 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _ind
 /*!************************!*\
   !*** ./src/index.json ***!
   \************************/
-/*! exports provided: author, Date, default */
+/*! no static exports found */
 /***/ (function(module) {
 
-eval("module.exports = JSON.parse(\"{\\\"author\\\":\\\"江晨旭\\\",\\\"Date\\\":\\\"2020/8/17\\\"}\");\n\n//# sourceURL=webpack:///./src/index.json?");
+eval("!(function webpackMissingModule() { var e = new Error(\"Cannot find module './index.json'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\n\n//# sourceURL=webpack:///./src/index.json?");
 
 /***/ }),
 
